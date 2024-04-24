@@ -1,7 +1,6 @@
 # openCV-project - Sunspot Recognition
 
 1. Import Libraries: Begin by importing the necessary libraries, including OpenCV and NumPy.
-<br>
 2. Load Image: Load the target image in grayscale mode. Grayscale conversion simplifies processing while retaining essential details.
 <br>
 3. Adaptive Thresholding: Apply adaptive thresholding to convert the grayscale image into a binary image. This process effectively highlights sunspots against the background.
