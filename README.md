@@ -1,4 +1,5 @@
 # openCV-project - Sunspot Recognition
+
 1. Import Libraries: Begin by importing the necessary libraries, including OpenCV and NumPy.
 <br>
 2. Load Image: Load the target image in grayscale mode. Grayscale conversion simplifies processing while retaining essential details.
