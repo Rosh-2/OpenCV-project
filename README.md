@@ -1,4 +1,4 @@
-# openCV-project - Sunspot Recognition
+# OpenCV-project - Sunspot Recognition
 
 1. Import Libraries: Begin by importing the necessary libraries, including OpenCV and NumPy.
 
