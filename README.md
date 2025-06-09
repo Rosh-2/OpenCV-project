@@ -19,3 +19,6 @@ This project can be used for various purposes:
 3. Research: Support research in solar physics by providing a tool for sunspot detection and visualization.
 
 The project includes the necessary Python code and sample images. 
+
+![Alt text](Detected Sunspots and threshold image.png)
+
