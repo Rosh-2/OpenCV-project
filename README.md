@@ -20,5 +20,5 @@ This project can be used for various purposes:
 
 The project includes the necessary Python code and sample images. 
 
-![Screenshot](Detected Sunspots and threshold image.png)
+![Screenshot](Detected%20Sunspots%20and%20threshold%20image.png)
 
